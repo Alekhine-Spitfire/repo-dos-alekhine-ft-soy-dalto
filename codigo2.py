@@ -1,2 +1,2 @@
-nombre = "Jorgito"
-print("Hola" + jorgita)
+nombre = "kamilita"
+print("Hola" + nombre)
